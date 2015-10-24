@@ -1,1 +1,2 @@
 # whatsInTheClassroom
+This is a program that uses publically available information to find out what is happening in aspecific room on campus by searching through a schedule and finding out which classes are happening in that room on a given day.
