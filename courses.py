@@ -6,7 +6,6 @@ x = s.split("<hr>")
 y = map(get_course_info, x)
 #print y
 g = open('times.py','r')
-s = open("schedule.pl.mhtml", 'r').read()
 import re
 get_meeting_info = lambda a: [b for b in a.split('\r\n') if 'Meeting Info' in b]
 r = s.split("<hr>")
