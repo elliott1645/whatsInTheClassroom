@@ -23,8 +23,4 @@ t_dict = {x[0]:y[0] for (x,y) in t_new}
 {x[0]:y[0] for (x,y) in t_new}
 t_new
 import re
-#re.search('', t_new[0][0])
-#re.search('l', t_new[0][0])
-#t_new[0][0]
-#t_new[0][0][0]
 print t
